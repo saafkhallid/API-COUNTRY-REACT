@@ -8,7 +8,7 @@
 
 body {
   font-family: "Nunito Sans", sans-serif;
-  background-color:rgb(247, 247, 247);
+  background-color:rgb(224, 125, 125);
 }
 
 .App {
@@ -28,6 +28,11 @@ select {
   margin-top: 16%;
 }
 
+
+/* .navblog{
+  background-color: rgb(114, 211, 35);
+  color: black;
+} */
 
 
 
@@ -53,7 +58,7 @@ select {
 .country {
   border-radius: 4px;
   overflow: hidden;
-  box-shadow: rgba(26, 25, 25, 0.05) 0px 6px 24px 0px,
+  box-shadow: rgba(221, 217, 217, 0.05) 0px 6px 24px 0px,
     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
 }
 
